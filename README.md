@@ -24,3 +24,6 @@
 #### $ER_m$ = expected return of the market
 
 #### $ER_m - R_f$ = market risk premium
+
+
+## As a result, I got $\beta = 0.2362 < 1$. Thus, the H-Farm S.p.A. stocks are less volatile that the market.
